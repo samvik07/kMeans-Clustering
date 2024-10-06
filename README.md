@@ -23,3 +23,7 @@ The dataset is **not included** in this repository due to licensing concerns, bu
 - The correct file path should be provided when running the script.
 
 
+## Example Output
+After running the code, you will see a silhouette plot like this:
+
+![Silhouette Plot](silhouette_plot_kMeans.png)
